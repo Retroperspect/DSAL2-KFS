@@ -1,0 +1,11 @@
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\obj\Debug\netcoreapp2.0\DSAL2-KFS.csprojResolveAssemblyReference.cache
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\obj\Debug\netcoreapp2.0\DSAL2-KFS.csproj.CoreCompileInputs.cache
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\obj\Debug\netcoreapp2.0\DSAL2-KFS.AssemblyInfoInputs.cache
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\obj\Debug\netcoreapp2.0\DSAL2-KFS.AssemblyInfo.cs
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\bin\Debug\netcoreapp2.0\DSAL2-KFS.deps.json
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\bin\Debug\netcoreapp2.0\DSAL2-KFS.runtimeconfig.json
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\bin\Debug\netcoreapp2.0\DSAL2-KFS.runtimeconfig.dev.json
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\bin\Debug\netcoreapp2.0\DSAL2-KFS.dll
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\bin\Debug\netcoreapp2.0\DSAL2-KFS.pdb
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\obj\Debug\netcoreapp2.0\DSAL2-KFS.dll
+C:\Users\Retro\Git\DSAL2-KFS\DSAL2-KFS\DSAL2-KFS\obj\Debug\netcoreapp2.0\DSAL2-KFS.pdb
